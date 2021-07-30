@@ -6,7 +6,7 @@ public class whileee {
 
 	public static void main(String[] args) {
 		int N;
-		int S = 0;
+		float S = 0;
 		float P = 0;
 		int C = 0;
 		Scanner sc = new Scanner(System.in);
