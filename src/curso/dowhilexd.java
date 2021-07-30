@@ -17,10 +17,11 @@ public class dowhilexd {
 			N = teclado.nextInt();
 			if (N % 2 == 0) {
 				S = S + N;
-				Pi = Si / Ci;
+				
 			} else {
 				Si = Si + N;
 				Ci = Ci + 1;
+				Pi = Si / Ci;
 			}
 		} while (N != -1);
 
